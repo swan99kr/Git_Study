@@ -1,0 +1,2 @@
+module SwanblogsHelper
+end
